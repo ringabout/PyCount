@@ -52,7 +52,7 @@ def process_note(lines, symbol):
 
 def get_info():
     for path in get_path():
-        name = path.split('\\' or '/')[-1]
+        name = path.split('\\' and '/')[-1]
         total = 0
         blank = 0
         code = 0
