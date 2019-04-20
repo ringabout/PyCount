@@ -28,6 +28,8 @@ python code_count.py -p code_test/ -s total -r
 ### 显示结果：
 name         |       total  |   blank | code  |    note | size
 
+| ----- | ----- | ----- | ----- | ----- | ----- |
+
 matplot_.py     |    13   |     1  |   12   |     0  |   0.33KB
 
 match.py     |       43    |    7  |   6     |    30  |  0.86KB
